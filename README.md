@@ -6,7 +6,4 @@ This function is inspired by the eof function in Climate Data Toolbox (CDT) deve
 The calculations were conducted with valuable guidance from my advisors, 
 Andrew L. Stewart and James C. McWilliams.
 
-Department of Atmospheric and Oceanic Sciences
-University of California, Los Angeles
-Cheng Yang (Sunny) Yeh
-July 2025
+Department of Atmospheric and Oceanic Sciences, University of California, Los Angeles,Cheng Yang (Sunny) Yeh, July 2025
